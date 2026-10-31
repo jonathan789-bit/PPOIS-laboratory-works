@@ -1,0 +1,8 @@
+PROJECT_NAME           = "OOP Lab 1 - Vector3D and PostMachine"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = include src
+RECURSIVE              = YES
+EXTRACT_ALL            = YES
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+QUIET                  = YES
